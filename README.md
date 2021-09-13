@@ -4,6 +4,12 @@ A CLI tool and API that automatically comments on posts in an Instagram account'
 
 ## Installation
 
+Install node.js from the link below:
+
+```Bash
+https://nodejs.org/en/
+```
+
 Install globally with the NPM package manager, you may need root privledges on Linux systems:
 
 ```Bash
