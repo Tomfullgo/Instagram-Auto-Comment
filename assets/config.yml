@@ -1,0 +1,9 @@
+username: usernamehere    # Instagram username
+password: passwordhere       # Instagram password
+minLikeTimeout: 4        
+maxLikeTimeout: 10        
+minCommentTimeout: 5     
+maxCommentTimeout: 15    
+feedRefreshInterval: 2    
+comments:                 # List of comments to use
+- insert comment here
